@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @victor-codex
-- 👀 I’m interested in being a FrontEnd Developer
-- 🌱 I’m currently learning Javascript
+- 👀 I’m FrontEnd React Developer
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me (via email : umehvictor28@gmail.com)
 - Cheers
