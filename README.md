@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @victor-codex
-- 👀 I’m FrontEnd React Developer
--    I’m looking to collaborate on anything 
-- 📫 How to reach me (via email : umehvictor28@gmail.com)
-- Cheers
-
-<!---
-victor-codex/victor-codex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Experienced software developer with expertise in web and mobile application development.
+- Skilled in Typescript, JavaScript, React,TailwindCSS, and Node.js.
+- Specializes in using these technologies to build robust, scalable, and responsive applications.
+- Experienced in React for building modern, responsive UI's.
+- Uses TailwindCSS for quick, customizable styling.
+- Experienced in Node.js, Express.js and MongoDB for building high-performance backend systems.
+- Passionate about creating high-quality applications that provide value to users.
